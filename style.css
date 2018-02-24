@@ -164,7 +164,7 @@ img
 {
     width: 150px;
     height: auto;
-	animation: coin-rotate 1s both infinite;
+	animation: coin-rotate 7s both infinite;
 }
 @keyframes coin-rotate{
 	 0{
